@@ -1,0 +1,21 @@
+Results for capacitron:
+Sentence 1: 60.00%
+Sentence 2: 16.36%
+Sentence 3: 66.67%
+Sentence 4: 21.11%
+Sentence 5: 22.86%
+
+Results for glow-tts:
+Sentence 1: 53.33%
+Sentence 2: 63.64%
+Sentence 3: 82.86%
+Sentence 4: 80.00%
+Sentence 5: 28.57%
+
+Results for tacotron2:
+Sentence 1: 40.00%
+Sentence 2: 34.55%
+Sentence 3: 84.76%
+Sentence 4: 80.00%
+Sentence 5: 37.14%
+

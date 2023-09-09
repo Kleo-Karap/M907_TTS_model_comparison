@@ -1,0 +1,4 @@
+MOS Results:
+Capacitron: MOS = 1.92 ± 1.0356
+Tacotron2: MOS = 3.08 ± 1.2031
+Glow: MOS = 3.24 ± 1.3058
